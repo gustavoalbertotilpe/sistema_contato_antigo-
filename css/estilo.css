@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-image: url("../img/fundo.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.navbar-default{
+    background-color:#0699cd;
+    position: fixed;
+    z-index: 2;
+}
+.topo{
+    padding:12px 12px;
+}
+.clear{
+    clear: both;
+}
+.corpo{
+   display: block;
+   position: relative;
+   padding-top:90px;
+   background:#fff;
+  
+  
+}
